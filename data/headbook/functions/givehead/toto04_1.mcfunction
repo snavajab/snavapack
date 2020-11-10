@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display: {Name: '{"text": "toto04_1\'s Head"}'}, SkullOwner: {Id: [I; 0, 0, 0, 0], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ4NTNhYWRkMjc5NmY5ZjhiZWQyZDg5MWM2ODllNTFlZWNmNmJmZDUyMjFmYmRiZmNlOTg3NjRjZjVjMWVhNSJ9fX0="}]}}} 1

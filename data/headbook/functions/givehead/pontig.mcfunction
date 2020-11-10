@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display: {Name: '{"text": "Pontig\'s Head"}'}, SkullOwner: {Id: [I; 0, 0, 0, 0], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWM5N2IxMzUxMDE4YThjNzMwMGUxM2VmZTk2OTk3ZjBhMWY0MTY0MWY2MDE1YWUzMjE0MjI4NTM5ZDdjYzcyNCJ9fX0="}]}}} 1
