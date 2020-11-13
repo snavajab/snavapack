@@ -2,14 +2,15 @@ https://sessionserver.mojang.com/session/minecraft/profile/6a7487ec19024729aa23d
 https://www.base64encode.org/
 
 base64 of this:
-{"textures":{"SKIN":{"url":"http://textures.minecraft.net/texture/eb72fd671d4edf226a989bdc700ef0371b0ead59989ae46c1bcca5f048f3eab3"}}}
+{"textures":{"SKIN":{"url":"http://textures.minecraft.net/texture/b10eb725311f82623f304a1c3ff8843e59275d430e32efd0fe82f7af178166ff"}}}
 
 in the value tag here:
-give @s minecraft:player_head{display: {Name: '{"text": "Gobz_\'s Head"}'}, SkullOwner: {Id: [I; 0, 0, 0, 0], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI3MmZkNjcxZDRlZGYyMjZhOTg5YmRjNzAwZWYwMzcxYjBlYWQ1OTk4OWFlNDZjMWJjY2E1ZjA0OGYzZWFiMyJ9fX0="}]}}} 1
+give @s minecraft:player_head{SkullOwner: {Name: "ViperBlaxe", Id: [I; 0, 0, 0, 0], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEwZWI3MjUzMTFmODI2MjNmMzA0YTFjM2ZmODg0M2U1OTI3NWQ0MzBlMzJlZmQwZmU4MmY3YWYxNzgxNjZmZiJ9fX0="}]}}} 1
 
 toto04_1:   http://textures.minecraft.net/texture/e4853aadd2796f9f8bed2d891c689e51eecf6bfd5221fbdbfce98764cf5c1ea5
 elia:       http://textures.minecraft.net/texture/9c97b1351018a8c7300e13efe96997f0a1f41641f6015ae3214228539d7cc724
-lollo:      http://textures.minecraft.net/texture/97f38ee9fce6c183ba14e8f9439a9aaa552fa0eeb9b3c18a402d7dd953cc4eee
+lollo:      http://textures.minecraft.net/texture/365b6d4eae7edf04686fd0b4006f26ae65a1c7e5be75b7da7718609c2e0cad75
 vano:       http://textures.minecraft.net/texture/35ccef92527fd9591d05d01b26a27f5c802f1e728e1a04c167e9f9d0c276c399
 dennis:     http://textures.minecraft.net/texture/bc00e75cde4fa4e95327e612dff70e5f26515379a8a450ef4e185f75f5be1710
 filippo:    http://textures.minecraft.net/texture/eb72fd671d4edf226a989bdc700ef0371b0ead59989ae46c1bcca5f048f3eab3
+toso:       http://textures.minecraft.net/texture/b10eb725311f82623f304a1c3ff8843e59275d430e32efd0fe82f7af178166ff

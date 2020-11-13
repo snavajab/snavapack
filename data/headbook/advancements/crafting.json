@@ -1,0 +1,38 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:player_head"
+        },
+        "title": {
+            "text": "craft_book"
+        },
+        "description": {
+            "text": ""
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "craft_book": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:written_book",
+                        "nbt": "{title:\"Heads\"}"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "craft_book"
+        ]
+    ],
+    "rewards": {
+        "function": "headbook:settag"
+    }
+}
